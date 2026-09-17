@@ -1,6 +1,3 @@
-# big-data-learning
-Big Data, Hadoop, and Spark Basics - IBM BD0225EN
-
 # Big Data Learning
 
 A practical journey to learn Big Data and Data Engineering from the fundamentals to real-world projects.
